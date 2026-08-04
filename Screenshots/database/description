@@ -1,0 +1,3 @@
+Description:
+
+The MySQL database stores all banking information, including customers, accounts, administrators, and transaction records. The application uses JDBC for seamless communication between the Java application and the database.
