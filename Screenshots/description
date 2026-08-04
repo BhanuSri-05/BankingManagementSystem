@@ -1,0 +1,29 @@
+1. Main Menu
+
+Description:
+
+The main menu serves as the entry point of the Banking Management System, allowing users to navigate to customer management, account management, transaction management, reports, and exit options through a simple console-based interface.
+
+2. Customer Management
+
+Description:
+
+The Customer Management module enables users to add, view, search, update, and delete customer records. It ensures efficient management of customer information with input validation and exception handling.
+
+3. Account Management
+
+Description:
+
+The Account Management module allows users to create new bank accounts, view account details, check balances, and manage account information while maintaining data consistency in the database.
+
+4. Transaction Management
+
+Description:
+
+The Transaction Management module supports essential banking operations such as deposits, withdrawals, and fund transfers. Every transaction is securely recorded in the database and can be retrieved for future reference.
+
+5. Reports
+
+Description:
+
+The Reports module provides an overview of banking operations by displaying statistics such as total customers, total accounts, highest and lowest balances, total deposits, total withdrawals, and transaction reports in a well-formatted tabular view.
